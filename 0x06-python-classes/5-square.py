@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 5-square.py by Al-Areef
 """A class that defines a square"""
 
 
